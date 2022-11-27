@@ -1,0 +1,22 @@
+.heading {
+    border-width: 2px;
+    border-color: #2F3C7E;
+    border-style: groove;
+}
+
+#b1 {
+    color: #2F3C7E;
+    font-size: large;
+    margin-top: 100px;
+    background-color: #FBEAEB;
+    
+}
+
+.footer {
+    width: 100%;
+    position: fixed;
+    background-color: aliceblue;
+    color: black;
+    bottom: 0;
+    line-height: 2;
+}
